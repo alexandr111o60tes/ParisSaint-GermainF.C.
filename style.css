@@ -1,0 +1,44 @@
+h1{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 8, 255);
+    text-transform: uppercase;
+    text-align: center;
+}
+.p1{
+    font-weight: 900;
+    color: black;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.p2{
+    color: rgb(70, 29, 0);
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+}
+
+.image{
+  width: 100%; 
+  height: 100vh;
+  background-image: url('https://1.bp.blogspot.com/-J1CSUv6JbaU/Y_ahKGrIVTI/AAAAAAAA9VQ/jUm6H5-rikwKUJDf-m8wifxTXQ6a7MdrQCNcBGAsYHQ/s0/Paris_Saint-Germain_FC_flag.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:center;
+  background-attachment: fixed;
+
+}
+
+h1:hover{
+    color: aqua;
+
+}
+
+h1:active{
+    font-size: 100px;
+}
+
+h1 span{
+    color: rgb(0, 255, 4);
+}
